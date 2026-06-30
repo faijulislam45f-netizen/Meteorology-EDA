@@ -1,4 +1,4 @@
-# India Temperature EDA (1901-2024)
+# Indian Temperature EDA (1901-2024)
 
 Climate change analysis using Python, Pandas, and Plotly. Explores 124 years of India's monthly temperature data to uncover long-term warming trends.
 
